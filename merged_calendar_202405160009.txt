@@ -1,7 +1,1 @@
-https://ics.calendarlabs.com/75/82b27a88/UK_Holidays.ics
-https://ics.calendarlabs.com/41/16c433bd/Christian_Holidays.ics
-https://ics.calendarlabs.com/39/688baefa/Canada_Holidays.ics
-https://ics.calendarlabs.com/35/5bb7493a/Australia_Holidays.ics
-https://ics.calendarlabs.com/54/461dd9b1/Japan_Holidays.ics
-https://ics.calendarlabs.com/67/92ff9172/Singapore_Holidays.ics
 https://calendar.google.com/calendar/ical/heymichu.contact%40gmail.com/public/basic.ics
