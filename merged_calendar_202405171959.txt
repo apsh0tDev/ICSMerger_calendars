@@ -1,9 +1,0 @@
-http://www.vrbo.com/icalendar/419e1c0f777842688b62f70792a86ac5.ics
-http://www.vrbo.com/icalendar/163fe738596c46ad90f20d0691a8a2cb.ics
-http://www.vrbo.com/icalendar/ed752f72f07943aaabb5a700d0b1d731.ics
-http://www.vrbo.com/icalendar/8fc8928bb3d3421ebde182ea91b2bbe2.ics
-http://www.vrbo.com/icalendar/8c55e167d3dc4ee5a63af5f486e91d52.ics
-http://www.vrbo.com/icalendar/2a2d2edc83f34076bf659e472309086c.ics
-http://www.vrbo.com/icalendar/905256b5e24c4c678e40e5edb492bd94.ics
-http://www.vrbo.com/icalendar/a4482f67e5ab45109250b2c8016d1c99.ics
-http://www.vrbo.com/icalendar/39a18724ba084ad1964a472fcc1b5b42.ics
