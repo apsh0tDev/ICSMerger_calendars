@@ -1,2 +1,0 @@
-http://www.vrbo.com/icalendar/163fe738596c46ad90f20d0691a8a2cb.ics
-https://ical.booking.com/v1/export?t=cb23385e-cbb3-434a-8826-6229210b3c5f
