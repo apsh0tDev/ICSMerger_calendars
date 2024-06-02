@@ -1,0 +1,2537 @@
+BEGIN:VCALENDAR
+X-WR-CALNAME:Merger Calendar
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230828
+DTEND;VALUE=DATE:20230828
+DTSTAMP:20231015T092026Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/uk/summer-bank-holiday.php to know more about Summer Bank Holiday (ENG\, NIR\, WAL). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+SUMMARY:Summer Bank Holiday (ENG\, NIR\, WAL)
+TRANSP:TRANSPARENT
+UID:652baeda99d021697361626@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20231225
+DTEND;VALUE=DATE:20231225
+DTSTAMP:20231015T092026Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+UID:652baeda9a0541697361626@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230608
+DTEND;VALUE=DATE:20230608
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/corpus-christi.php to know more about Corpus Christi. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Corpus Christi
+TRANSP:TRANSPARENT
+UID:652cd4884d6411697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230319
+DTEND;VALUE=DATE:20230319
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/st-josephs-day-.php to know more about St. Joseph's Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:St. Joseph's Day
+TRANSP:TRANSPARENT
+UID:652cd4884ceca1697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230807
+DTEND;VALUE=DATE:20230807
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/australia/picnic-day.php to know more about Picnic Day (NT). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:Picnic Day (NT)
+TRANSP:TRANSPARENT
+UID:6527dcc1a58901697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20241225
+DTEND;VALUE=DATE:20241225
+DTSTAMP:20231016T071151Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Canada
+STATUS:CONFIRMED
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+UID:652ce237aebeb1697440311@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230321
+DTEND;VALUE=DATE:20230321
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/spring-equinox.php to know more about Spring Equinox. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:Spring Equinox
+TRANSP:TRANSPARENT
+UID:6529189257bcc1697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240328
+DTEND;VALUE=DATE:20240328
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/philippines/maundy-thursday.php to know more about Maundy (Holy) Thursday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Maundy (Holy) Thursday
+TRANSP:TRANSPARENT
+UID:652cd4884ed2b1697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20231002
+DTEND;VALUE=DATE:20231002
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/australia/kings-birthday.php to know more about King's Birthday (QLD). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:King's Birthday (QLD)
+TRANSP:TRANSPARENT
+UID:6527dcc1a5ab81697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240101
+DTEND;VALUE=DATE:20240101
+DTSTAMP:20231015T092026Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+UID:652baeda9a3881697361626@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230925
+DTEND;VALUE=DATE:20230925
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/australia/kings-birthday.php to know more about King's Birthday (WA). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:King's Birthday (WA)
+TRANSP:TRANSPARENT
+UID:6527dcc1a59a51697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230106
+DTEND;VALUE=DATE:20230106
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/spain/epiphany.php to know more about Epiphany. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Epiphany
+TRANSP:TRANSPARENT
+UID:652cd4884c89a1697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230306
+DTEND;VALUE=DATE:20230306
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/australia/labour-day.php to know more about Labour Day (WA). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:Labour Day (WA)
+TRANSP:TRANSPARENT
+UID:6527dcc1a4ce91697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240914
+DTEND;VALUE=DATE:20240914
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/holy-cross-day.php to know more about Holy Cross Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Holy Cross Day
+TRANSP:TRANSPARENT
+UID:652cd4884f80d1697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20231225
+DTEND;VALUE=DATE:20231225
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Christmas
+TRANSP:TRANSPARENT
+UID:652cd4884e4b91697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240214
+DTEND;VALUE=DATE:20240214
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/valentines-day.php to know more about St. Valentine's Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:St. Valentine's Day
+TRANSP:TRANSPARENT
+UID:652cd4884e9831697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240317
+DTEND;VALUE=DATE:20240317
+DTSTAMP:20231016T071151Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/st-patricks-day.php to know more about St. Patrick's Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Canada
+STATUS:CONFIRMED
+SUMMARY:St. Patrick's Day
+TRANSP:TRANSPARENT
+UID:652ce237ae43f1697440311@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20231130
+DTEND;VALUE=DATE:20231130
+DTSTAMP:20231015T092026Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/st-andrews-day.php to know more about St. Andrew's Day (SCT). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+SUMMARY:St. Andrew's Day (SCT)
+TRANSP:TRANSPARENT
+UID:652baeda99f0f1697361626@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230505
+DTEND;VALUE=DATE:20230505
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/childrens-day.php to know more about Children's Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:Children's Day
+TRANSP:TRANSPARENT
+UID:6529189257da01697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20231130
+DTEND;VALUE=DATE:20231130
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/st-andrews-day.php to know more about St. Andrew's Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:St. Andrew's Day
+TRANSP:TRANSPARENT
+UID:652cd4884e1331697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20241231
+DTEND;VALUE=DATE:20241231
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/watch-night.php to know more about Watch Night. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Watch Night
+TRANSP:TRANSPARENT
+UID:652cd488501d81697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230313
+DTEND;VALUE=DATE:20230313
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/australia/labour-day.php to know more about Labour Day (VIC). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:Labour Day (VIC)
+TRANSP:TRANSPARENT
+UID:6527dcc1a4de71697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230101
+DTEND;VALUE=DATE:20230101
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+UID:65291892579791697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230801
+DTEND;VALUE=DATE:20230801
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/lammas.php to know more about Lammas. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Lammas
+TRANSP:TRANSPARENT
+UID:652cd4884d9bd1697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230815
+DTEND;VALUE=DATE:20230815
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/the-assumption-of-mary.php to know more about The Assumption of Mary. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:The Assumption of Mary
+TRANSP:TRANSPARENT
+UID:652cd4884da5f1697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230701
+DTEND;VALUE=DATE:20230701
+DTSTAMP:20231016T071151Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/canada/canada-day.php to know more about Canada Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Canada
+STATUS:CONFIRMED
+SUMMARY:Canada Day
+TRANSP:TRANSPARENT
+UID:652ce237ade0c1697440311@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20241225
+DTEND;VALUE=DATE:20241225
+DTSTAMP:20231015T092026Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+UID:652baeda9b62e1697361626@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230407
+DTEND;VALUE=DATE:20230407
+DTSTAMP:20231016T071151Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/good-friday.php to know more about Good Friday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Canada
+STATUS:CONFIRMED
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+UID:652ce237adbf61697440311@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230918
+DTEND;VALUE=DATE:20230918
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/respect-for-the-aged-day.php to know more about Respect for the Aged Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:Respect for the Aged Day
+TRANSP:TRANSPARENT
+UID:6529189257f841697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240331
+DTEND;VALUE=DATE:20240331
+DTSTAMP:20231016T071151Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/easter.php to know more about Easter Sunday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Canada
+STATUS:CONFIRMED
+SUMMARY:Easter Sunday
+TRANSP:TRANSPARENT
+UID:652ce237ae5961697440311@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240826
+DTEND;VALUE=DATE:20240826
+DTSTAMP:20231015T092026Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/uk/summer-bank-holiday.php to know more about Summer Bank Holiday (ENG\, NIR\, WAL). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+SUMMARY:Summer Bank Holiday (ENG\, NIR\, WAL)
+TRANSP:TRANSPARENT
+UID:652baeda9b2311697361626@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230504
+DTEND;VALUE=DATE:20230504
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/greenery-day.php to know more about Greenery Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:Greenery Day
+TRANSP:TRANSPARENT
+UID:6529189257d291697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230317
+DTEND;VALUE=DATE:20230317
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/st-patricks-day.php to know more about St. Patrick's Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:St. Patrick's Day
+TRANSP:TRANSPARENT
+UID:652cd4884cdd71697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230629
+DTEND;VALUE=DATE:20230629
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/saints-peter-and-paul.php to know more about Saints Peter and Paul. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Saints Peter and Paul
+TRANSP:TRANSPARENT
+UID:652cd4884d7151697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230406
+DTEND;VALUE=DATE:20230406
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/philippines/maundy-thursday.php to know more about Maundy (Holy) Thursday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Maundy (Holy) Thursday
+TRANSP:TRANSPARENT
+UID:652cd4884d0411697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230102
+DTEND;VALUE=DATE:20230102
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day Holiday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:New Year's Day Holiday
+TRANSP:TRANSPARENT
+UID:65291892579fc1697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240311
+DTEND;VALUE=DATE:20240311
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/australia/eight-hours-day.php to know more about Eight Hours Day (TAS). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:Eight Hours Day (TAS)
+TRANSP:TRANSPARENT
+UID:6527dcc1a65941697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230715
+DTEND;VALUE=DATE:20230715
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/saint-vladimir.php to know more about Saint Vladimir. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Saint Vladimir
+TRANSP:TRANSPARENT
+UID:652cd4884d7db1697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20231123
+DTEND;VALUE=DATE:20231123
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/labor-thanksgiving-day.php to know more about Labor Thanksgiving Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:Labor Thanksgiving Day
+TRANSP:TRANSPARENT
+UID:65291892581641697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20241225
+DTEND;VALUE=DATE:20241225
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+UID:6527dcc1a743d1697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240629
+DTEND;VALUE=DATE:20240629
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/saints-peter-and-paul.php to know more about Saints Peter and Paul. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Saints Peter and Paul
+TRANSP:TRANSPARENT
+UID:652cd4884f3f11697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240530
+DTEND;VALUE=DATE:20240530
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/corpus-christi.php to know more about Corpus Christi. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Corpus Christi
+TRANSP:TRANSPARENT
+UID:652cd4884f32f1697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240922
+DTEND;VALUE=DATE:20240922
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/autumn-equinox-day.php to know more about Autumn Equinox Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:Autumn Equinox Day
+TRANSP:TRANSPARENT
+UID:65291892589791697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240108
+DTEND;VALUE=DATE:20240108
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/coming-of-age-day.php to know more about Coming of Age Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:Coming of Age Day
+TRANSP:TRANSPARENT
+UID:65291892582dc1697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20231009
+DTEND;VALUE=DATE:20231009
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/sports-day.php to know more about Health and Sports Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:Health and Sports Day
+TRANSP:TRANSPARENT
+UID:65291892580771697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230222
+DTEND;VALUE=DATE:20230222
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/ash-wednesday.php to know more about Ash Wednesday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Ash Wednesday
+TRANSP:TRANSPARENT
+UID:652cd4884ccdd1697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240815
+DTEND;VALUE=DATE:20240815
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/the-assumption-of-mary.php to know more about The Assumption of Mary. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:The Assumption of Mary
+TRANSP:TRANSPARENT
+UID:652cd4884f7121697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230529
+DTEND;VALUE=DATE:20230529
+DTSTAMP:20231015T092026Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/uk/may-spring-bank-holiday.php to know more about Spring Bank Holiday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+SUMMARY:Spring Bank Holiday
+TRANSP:TRANSPARENT
+UID:652baeda999e01697361626@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240331
+DTEND;VALUE=DATE:20240331
+DTSTAMP:20231015T092026Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/easter.php to know more about Easter Sunday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+SUMMARY:Easter Sunday
+TRANSP:TRANSPARENT
+UID:652baeda9a9811697361626@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20231123
+DTEND;VALUE=DATE:20231123
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/thanksgiving-day.php to know more about Thanksgiving (USA). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Thanksgiving (USA)
+TRANSP:TRANSPARENT
+UID:652cd4884df3b1697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20241224
+DTEND;VALUE=DATE:20241224
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas Eve. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Christmas Eve
+TRANSP:TRANSPARENT
+UID:652cd4884ffb61697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20241101
+DTEND;VALUE=DATE:20241101
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/philippines/all-saints-day.php to know more about All Saints' Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:All Saints' Day
+TRANSP:TRANSPARENT
+UID:652cd4884fa721697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230501
+DTEND;VALUE=DATE:20230501
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/uk/may-day.php to know more about May Day (NT). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:May Day (NT)
+TRANSP:TRANSPARENT
+UID:6527dcc1a555d1697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230717
+DTEND;VALUE=DATE:20230717
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/sea-day.php to know more about Marine Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:Marine Day
+TRANSP:TRANSPARENT
+UID:6529189257e191697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230503
+DTEND;VALUE=DATE:20230503
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/constitution-memorial-day.php to know more about Constitution Memorial Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:Constitution Memorial Day
+TRANSP:TRANSPARENT
+UID:6529189257cb61697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20241031
+DTEND;VALUE=DATE:20241031
+DTSTAMP:20231016T071151Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/halloween.php to know more about Halloween. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Canada
+STATUS:CONFIRMED
+SUMMARY:Halloween
+TRANSP:TRANSPARENT
+UID:652ce237aeaa71697440311@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230409
+DTEND;VALUE=DATE:20230409
+DTSTAMP:20231016T071151Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/easter.php to know more about Easter Sunday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Canada
+STATUS:CONFIRMED
+SUMMARY:Easter Sunday
+TRANSP:TRANSPARENT
+UID:652ce237adc751697440311@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230410
+DTEND;VALUE=DATE:20230410
+DTSTAMP:20231015T092026Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/easter-monday.php to know more about Easter Monday (ENG\, NIR\, WAL). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+SUMMARY:Easter Monday (ENG\, NIR\, WAL)
+TRANSP:TRANSPARENT
+UID:652baeda996ce1697361626@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240805
+DTEND;VALUE=DATE:20240805
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/australia/picnic-day.php to know more about Picnic Day (NT). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:Picnic Day (NT)
+TRANSP:TRANSPARENT
+UID:6527dcc1a708f1697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230410
+DTEND;VALUE=DATE:20230410
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/easter-monday.php to know more about Easter Monday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Easter Monday
+TRANSP:TRANSPARENT
+UID:652cd4884d2721697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20241226
+DTEND;VALUE=DATE:20241226
+DTSTAMP:20231016T071151Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/canada/boxing-day.php to know more about Boxing Day (Many regions). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Canada
+STATUS:CONFIRMED
+SUMMARY:Boxing Day (Many regions)
+TRANSP:TRANSPARENT
+UID:652ce237aec8c1697440311@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230914
+DTEND;VALUE=DATE:20230914
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/holy-cross-day.php to know more about Holy Cross Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Holy Cross Day
+TRANSP:TRANSPARENT
+UID:652cd4884db301697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240401
+DTEND;VALUE=DATE:20240401
+DTSTAMP:20231015T092026Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/easter-monday.php to know more about Easter Monday (ENG\, NIR\, WAL). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+SUMMARY:Easter Monday (ENG\, NIR\, WAL)
+TRANSP:TRANSPARENT
+UID:652baeda9aae11697361626@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230929
+DTEND;VALUE=DATE:20230929
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/michael-and-all-angels.php to know more about Michael and All Angels. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Michael and All Angels
+TRANSP:TRANSPARENT
+UID:652cd4884dbfe1697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240211
+DTEND;VALUE=DATE:20240211
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/national-foundation-day.php to know more about National Foundation Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:National Foundation Day
+TRANSP:TRANSPARENT
+UID:65291892583601697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20231206
+DTEND;VALUE=DATE:20231206
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/st-nicholas-day.php to know more about St. Nicholas Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:St. Nicholas Day
+TRANSP:TRANSPARENT
+UID:652cd4884e30e1697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230102
+DTEND;VALUE=DATE:20230102
+DTSTAMP:20231015T092026Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day Holiday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+SUMMARY:New Year's Day Holiday
+TRANSP:TRANSPARENT
+UID:652baeda991df1697361626@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230409
+DTEND;VALUE=DATE:20230409
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/easter.php to know more about Easter. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Easter
+TRANSP:TRANSPARENT
+UID:652cd4884d1b31697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240712
+DTEND;VALUE=DATE:20240712
+DTSTAMP:20231015T092026Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/uk/battle-of-the-boyne.php to know more about Battle of the Boyne (NIR). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+SUMMARY:Battle of the Boyne (NIR)
+TRANSP:TRANSPARENT
+UID:652baeda9af431697361626@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20241228
+DTEND;VALUE=DATE:20241228
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/holy-innocents.php to know more about Holy Innocents. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Holy Innocents
+TRANSP:TRANSPARENT
+UID:652cd488501111697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20231226
+DTEND;VALUE=DATE:20231226
+DTSTAMP:20231015T092026Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/canada/boxing-day.php to know more about Boxing Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+SUMMARY:Boxing Day
+TRANSP:TRANSPARENT
+UID:652baeda9a2561697361626@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230930
+DTEND;VALUE=DATE:20230930
+DTSTAMP:20231016T071151Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/canada/truth-and-reconciliation-day.php to know more about Truth and Reconciliation Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Canada
+STATUS:CONFIRMED
+SUMMARY:Truth and Reconciliation Day
+TRANSP:TRANSPARENT
+UID:652ce237adfc91697440311@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230101
+DTEND;VALUE=DATE:20230101
+DTSTAMP:20231016T071151Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Canada
+STATUS:CONFIRMED
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+UID:652ce237ada501697440311@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240930
+DTEND;VALUE=DATE:20240930
+DTSTAMP:20231016T071151Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/canada/truth-and-reconciliation-day.php to know more about Truth and Reconciliation Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Canada
+STATUS:CONFIRMED
+SUMMARY:Truth and Reconciliation Day
+TRANSP:TRANSPARENT
+UID:652ce237ae9691697440311@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230605
+DTEND;VALUE=DATE:20230605
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/australia/western-australia-day.php to know more about Western Australia Day (WA). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:Western Australia Day (WA)
+TRANSP:TRANSPARENT
+UID:6527dcc1a566c1697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20231225
+DTEND;VALUE=DATE:20231225
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+UID:65291892581e11697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240506
+DTEND;VALUE=DATE:20240506
+DTSTAMP:20231015T092026Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/uk/early-may-bank-holiday.php to know more about Early May Bank Holiday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+SUMMARY:Early May Bank Holiday
+TRANSP:TRANSPARENT
+UID:652baeda9acee1697361626@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230429
+DTEND;VALUE=DATE:20230429
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/showa-day.php to know more about Showa Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:Showa Day
+TRANSP:TRANSPARENT
+UID:6529189257c401697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230712
+DTEND;VALUE=DATE:20230712
+DTSTAMP:20231015T092026Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/uk/battle-of-the-boyne.php to know more about Battle of the Boyne (NIR). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+SUMMARY:Battle of the Boyne (NIR)
+TRANSP:TRANSPARENT
+UID:652baeda99ae01697361626@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20241201
+DTEND;VALUE=DATE:20241201
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/advent-first-sunday.php to know more about Advent - first Sunday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Advent - first Sunday
+TRANSP:TRANSPARENT
+UID:652cd4884fe5c1697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240401
+DTEND;VALUE=DATE:20240401
+DTSTAMP:20231016T071151Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/easter-monday.php to know more about Easter Monday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Canada
+STATUS:CONFIRMED
+SUMMARY:Easter Monday
+TRANSP:TRANSPARENT
+UID:652ce237ae6461697440311@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20241014
+DTEND;VALUE=DATE:20241014
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/sports-day.php to know more about Health and Sports Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:Health and Sports Day
+TRANSP:TRANSPARENT
+UID:6529189258a011697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230409
+DTEND;VALUE=DATE:20230409
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/easter.php to know more about Easter Sunday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:Easter Sunday
+TRANSP:TRANSPARENT
+UID:6527dcc1a52071697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20241226
+DTEND;VALUE=DATE:20241226
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/canada/boxing-day.php to know more about Boxing Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:Boxing Day
+TRANSP:TRANSPARENT
+UID:6527dcc1a75271697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240304
+DTEND;VALUE=DATE:20240304
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/australia/labour-day.php to know more about Labour Day (WA). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:Labour Day (WA)
+TRANSP:TRANSPARENT
+UID:6527dcc1a63371697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230725
+DTEND;VALUE=DATE:20230725
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/st-james-the-great-day-.php to know more about St. James the Great Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:St. James the Great Day
+TRANSP:TRANSPARENT
+UID:652cd4884d8ed1697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20241225
+DTEND;VALUE=DATE:20241225
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Christmas
+TRANSP:TRANSPARENT
+UID:652cd488500621697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20231226
+DTEND;VALUE=DATE:20231226
+DTSTAMP:20231016T071151Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/canada/boxing-day.php to know more about Boxing Day (Many regions). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Canada
+STATUS:CONFIRMED
+SUMMARY:Boxing Day (Many regions)
+TRANSP:TRANSPARENT
+UID:652ce237ae2711697440311@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240329
+DTEND;VALUE=DATE:20240329
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/good-friday.php to know more about Good Friday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+UID:6527dcc1a680b1697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230108
+DTEND;VALUE=DATE:20230108
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/baptism-of-the-lord.php to know more about The Baptism of Jesus. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:The Baptism of Jesus
+TRANSP:TRANSPARENT
+UID:652cd4884c9dd1697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240311
+DTEND;VALUE=DATE:20240311
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/australia/canberra-day.php to know more about Canberra Day (ACT). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:Canberra Day (ACT)
+TRANSP:TRANSPARENT
+UID:6527dcc1a64701697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230410
+DTEND;VALUE=DATE:20230410
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/easter-monday.php to know more about Easter Monday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:Easter Monday
+TRANSP:TRANSPARENT
+UID:6527dcc1a530e1697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240102
+DTEND;VALUE=DATE:20240102
+DTSTAMP:20231015T092026Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about 2nd January (SCT). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+SUMMARY:2nd January (SCT)
+TRANSP:TRANSPARENT
+UID:652baeda9a4be1697361626@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240503
+DTEND;VALUE=DATE:20240503
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/constitution-memorial-day.php to know more about Constitution Memorial Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:Constitution Memorial Day
+TRANSP:TRANSPARENT
+UID:65291892585e61697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20231031
+DTEND;VALUE=DATE:20231031
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/halloween.php to know more about All Hallows Eve. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:All Hallows Eve
+TRANSP:TRANSPARENT
+UID:652cd4884dcca1697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230923
+DTEND;VALUE=DATE:20230923
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/autumn-equinox-day.php to know more about Autumn Equinox Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:Autumn Equinox Day
+TRANSP:TRANSPARENT
+UID:6529189257fff1697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240902
+DTEND;VALUE=DATE:20240902
+DTSTAMP:20231016T071151Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/canada/labor-day.php to know more about Labour Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Canada
+STATUS:CONFIRMED
+SUMMARY:Labour Day
+TRANSP:TRANSPARENT
+UID:652ce237ae8bc1697440311@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230612
+DTEND;VALUE=DATE:20230612
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/australia/kings-birthday.php to know more about King's Birthday (Most region). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:King's Birthday (Most region)
+TRANSP:TRANSPARENT
+UID:6527dcc1a57801697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230425
+DTEND;VALUE=DATE:20230425
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/australia/anzac-day.php to know more about Anzac Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:Anzac Day
+TRANSP:TRANSPARENT
+UID:6527dcc1a54461697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20231225
+DTEND;VALUE=DATE:20231225
+DTSTAMP:20231016T071151Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Canada
+STATUS:CONFIRMED
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+UID:652ce237ae1e71697440311@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240329
+DTEND;VALUE=DATE:20240329
+DTSTAMP:20231015T092026Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/good-friday.php to know more about Good Friday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+UID:652baeda9a8651697361626@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20241124
+DTEND;VALUE=DATE:20241124
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/christ-the-king.php to know more about Christ the King. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Christ the King
+TRANSP:TRANSPARENT
+UID:652cd4884fc091697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240324
+DTEND;VALUE=DATE:20240324
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/palm-sunday.php to know more about Palm Sunday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Palm Sunday
+TRANSP:TRANSPARENT
+UID:652cd4884ec741697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240401
+DTEND;VALUE=DATE:20240401
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/easter-monday.php to know more about Easter Monday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:Easter Monday
+TRANSP:TRANSPARENT
+UID:6527dcc1a6a751697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20231231
+DTEND;VALUE=DATE:20231231
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Eve. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:New Year's Eve
+TRANSP:TRANSPARENT
+UID:6527dcc1a5f2d1697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240603
+DTEND;VALUE=DATE:20240603
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/australia/western-australia-day.php to know more about Western Australia Day (WA). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:Western Australia Day (WA)
+TRANSP:TRANSPARENT
+UID:6527dcc1a6e961697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20231203
+DTEND;VALUE=DATE:20231203
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/advent-first-sunday.php to know more about Advent - first Sunday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Advent - first Sunday
+TRANSP:TRANSPARENT
+UID:652cd4884e2321697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20231126
+DTEND;VALUE=DATE:20231126
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/christ-the-king.php to know more about Christ the King. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Christ the King
+TRANSP:TRANSPARENT
+UID:652cd4884e00d1697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20241104
+DTEND;VALUE=DATE:20241104
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/culture-day.php to know more about Culture Day Observed. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:Culture Day Observed
+TRANSP:TRANSPARENT
+UID:6529189258b101697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230518
+DTEND;VALUE=DATE:20230518
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/romania/ascension-day.php to know more about Ascension of Jesus. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Ascension of Jesus
+TRANSP:TRANSPARENT
+UID:652cd4884d4011697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20241130
+DTEND;VALUE=DATE:20241130
+DTSTAMP:20231015T092026Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/st-andrews-day.php to know more about St. Andrew's Day (SCT). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+SUMMARY:St. Andrew's Day (SCT)
+TRANSP:TRANSPARENT
+UID:652baeda9b5041697361626@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230313
+DTEND;VALUE=DATE:20230313
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/australia/canberra-day.php to know more about Canberra Day (ACT). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:Canberra Day (ACT)
+TRANSP:TRANSPARENT
+UID:6527dcc1a50011697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240329
+DTEND;VALUE=DATE:20240329
+DTSTAMP:20231016T071151Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/good-friday.php to know more about Good Friday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Canada
+STATUS:CONFIRMED
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+UID:652ce237ae4d81697440311@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230317
+DTEND;VALUE=DATE:20230317
+DTSTAMP:20231015T092026Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/st-patricks-day.php to know more about St. Patrick's Day (NIR). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+SUMMARY:St. Patrick's Day (NIR)
+TRANSP:TRANSPARENT
+UID:652baeda993d51697361626@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230501
+DTEND;VALUE=DATE:20230501
+DTSTAMP:20231015T092026Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/uk/early-may-bank-holiday.php to know more about Early May Bank Holiday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+SUMMARY:Early May Bank Holiday
+TRANSP:TRANSPARENT
+UID:652baeda997c91697361626@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20231231
+DTEND;VALUE=DATE:20231231
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/watch-night.php to know more about Watch Night. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Watch Night
+TRANSP:TRANSPARENT
+UID:652cd4884e6721697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20241103
+DTEND;VALUE=DATE:20241103
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/culture-day.php to know more about Culture Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:Culture Day
+TRANSP:TRANSPARENT
+UID:6529189258a851697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20241226
+DTEND;VALUE=DATE:20241226
+DTSTAMP:20231015T092026Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/canada/boxing-day.php to know more about Boxing Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+SUMMARY:Boxing Day
+TRANSP:TRANSPARENT
+UID:652baeda9b7591697361626@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230202
+DTEND;VALUE=DATE:20230202
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/candlemas.php to know more about Candlemas. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Candlemas
+TRANSP:TRANSPARENT
+UID:652cd4884cae21697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240811
+DTEND;VALUE=DATE:20240811
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/mountain-day.php to know more about Mountain Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:Mountain Day
+TRANSP:TRANSPARENT
+UID:65291892587e21697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240504
+DTEND;VALUE=DATE:20240504
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/greenery-day.php to know more about Greenery Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:Greenery Day
+TRANSP:TRANSPARENT
+UID:65291892586651697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240506
+DTEND;VALUE=DATE:20240506
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/uk/may-day.php to know more about May Day (NT). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:May Day (NT)
+TRANSP:TRANSPARENT
+UID:6527dcc1a6d311697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230407
+DTEND;VALUE=DATE:20230407
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/good-friday.php to know more about Good Friday . \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Good Friday 
+TRANSP:TRANSPARENT
+UID:652cd4884d0fa1697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20231228
+DTEND;VALUE=DATE:20231228
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/holy-innocents.php to know more about Holy Innocents. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Holy Innocents
+TRANSP:TRANSPARENT
+UID:652cd4884e58e1697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230813
+DTEND;VALUE=DATE:20230813
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/festival-of-souls.php to know more about Festival of Souls (Obon). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:Festival of Souls (Obon)
+TRANSP:TRANSPARENT
+UID:6529189257f071697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20231031
+DTEND;VALUE=DATE:20231031
+DTSTAMP:20231016T071151Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/halloween.php to know more about Halloween. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Canada
+STATUS:CONFIRMED
+SUMMARY:Halloween
+TRANSP:TRANSPARENT
+UID:652ce237ae0d61697440311@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240126
+DTEND;VALUE=DATE:20240126
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/australia/australia-day.php to know more about Australia Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:Australia Day
+TRANSP:TRANSPARENT
+UID:6527dcc1a61f61697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240223
+DTEND;VALUE=DATE:20240223
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/emperors-birthday.php to know more about Emperor's Birthday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:Emperor's Birthday
+TRANSP:TRANSPARENT
+UID:65291892584641697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240725
+DTEND;VALUE=DATE:20240725
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/st-james-the-great-day-.php to know more about St. James the Great Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:St. James the Great Day
+TRANSP:TRANSPARENT
+UID:652cd4884f5741697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240101
+DTEND;VALUE=DATE:20240101
+DTSTAMP:20231016T071151Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Canada
+STATUS:CONFIRMED
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+UID:652ce237ae3101697440311@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20241128
+DTEND;VALUE=DATE:20241128
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/thanksgiving-day.php to know more about Thanksgiving (USA). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Thanksgiving (USA)
+TRANSP:TRANSPARENT
+UID:652cd4884fcd71697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240317
+DTEND;VALUE=DATE:20240317
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/st-patricks-day.php to know more about St. Patrick's Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:St. Patrick's Day
+TRANSP:TRANSPARENT
+UID:652cd4884eb011697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20241105
+DTEND;VALUE=DATE:20241105
+DTSTAMP:20231015T092026Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/uk/guy-fawkes-day.php to know more about Guy Fawkes Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+SUMMARY:Guy Fawkes Day
+TRANSP:TRANSPARENT
+UID:652baeda9b3bb1697361626@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230103
+DTEND;VALUE=DATE:20230103
+DTSTAMP:20231015T092026Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about 2nd January (SCT). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+SUMMARY:2nd January (SCT)
+TRANSP:TRANSPARENT
+UID:652baeda992db1697361626@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20241007
+DTEND;VALUE=DATE:20241007
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/australia/labour-day.php to know more about Labour Day (Most Region). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:Labour Day (Most Region)
+TRANSP:TRANSPARENT
+UID:6527dcc1a725c1697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240106
+DTEND;VALUE=DATE:20240106
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/spain/epiphany.php to know more about Epiphany. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Epiphany
+TRANSP:TRANSPARENT
+UID:652cd4884e7431697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20241014
+DTEND;VALUE=DATE:20241014
+DTSTAMP:20231016T071151Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/canada/thanksgiving-day.php to know more about Thanksgiving Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Canada
+STATUS:CONFIRMED
+SUMMARY:Thanksgiving Day
+TRANSP:TRANSPARENT
+UID:652ce237aea0b1697440311@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240925
+DTEND;VALUE=DATE:20240925
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/australia/kings-birthday.php to know more about King's Birthday (WA). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:King's Birthday (WA)
+TRANSP:TRANSPARENT
+UID:6527dcc1a71741697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240425
+DTEND;VALUE=DATE:20240425
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/australia/anzac-day.php to know more about Anzac Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:Anzac Day
+TRANSP:TRANSPARENT
+UID:6527dcc1a6bc81697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20231226
+DTEND;VALUE=DATE:20231226
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/canada/boxing-day.php to know more about Boxing Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:Boxing Day
+TRANSP:TRANSPARENT
+UID:6527dcc1a5e131697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240715
+DTEND;VALUE=DATE:20240715
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/sea-day.php to know more about Marine Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:Marine Day
+TRANSP:TRANSPARENT
+UID:65291892587631697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230313
+DTEND;VALUE=DATE:20230313
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/australia/eight-hours-day.php to know more about Eight Hours Day (TAS). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:Eight Hours Day (TAS)
+TRANSP:TRANSPARENT
+UID:6527dcc1a4eea1697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230604
+DTEND;VALUE=DATE:20230604
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/trinity-sunday.php to know more about Trinity Sunday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Trinity Sunday
+TRANSP:TRANSPARENT
+UID:652cd4884d5801697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240805
+DTEND;VALUE=DATE:20240805
+DTSTAMP:20231015T092026Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/uk/summer-bank-holiday.php to know more about Summer Bank Holiday (SCT). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+SUMMARY:Summer Bank Holiday (SCT)
+TRANSP:TRANSPARENT
+UID:652baeda9b09f1697361626@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240214
+DTEND;VALUE=DATE:20240214
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/ash-wednesday.php to know more about Ash Wednesday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Ash Wednesday
+TRANSP:TRANSPARENT
+UID:652cd4884ea491697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230223
+DTEND;VALUE=DATE:20230223
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/emperors-birthday.php to know more about Emperor's Birthday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:Emperor's Birthday
+TRANSP:TRANSPARENT
+UID:6529189257b5a1697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230904
+DTEND;VALUE=DATE:20230904
+DTSTAMP:20231016T071151Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/canada/labor-day.php to know more about Labour Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Canada
+STATUS:CONFIRMED
+SUMMARY:Labour Day
+TRANSP:TRANSPARENT
+UID:652ce237adf401697440311@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20231105
+DTEND;VALUE=DATE:20231105
+DTSTAMP:20231015T092026Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/uk/guy-fawkes-day.php to know more about Guy Fawkes Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+SUMMARY:Guy Fawkes Day
+TRANSP:TRANSPARENT
+UID:652baeda99e071697361626@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240320
+DTEND;VALUE=DATE:20240320
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/spring-equinox.php to know more about Spring Equinox. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:Spring Equinox
+TRANSP:TRANSPARENT
+UID:65291892584e61697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240329
+DTEND;VALUE=DATE:20240329
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/good-friday.php to know more about Good Friday . \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Good Friday 
+TRANSP:TRANSPARENT
+UID:652cd4884ede61697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240101
+DTEND;VALUE=DATE:20240101
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+UID:6527dcc1a60c61697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20231103
+DTEND;VALUE=DATE:20231103
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/culture-day.php to know more about Culture Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:Culture Day
+TRANSP:TRANSPARENT
+UID:65291892580ed1697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20241123
+DTEND;VALUE=DATE:20241123
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/labor-thanksgiving-day.php to know more about Labor Thanksgiving Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:Labor Thanksgiving Day
+TRANSP:TRANSPARENT
+UID:6529189258ba31697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20241102
+DTEND;VALUE=DATE:20241102
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/all-souls-day.php to know more about All Souls' Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:All Souls' Day
+TRANSP:TRANSPARENT
+UID:652cd4884fb3f1697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240526
+DTEND;VALUE=DATE:20240526
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/trinity-sunday.php to know more about Trinity Sunday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Trinity Sunday
+TRANSP:TRANSPARENT
+UID:652cd4884f2701697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20231111
+DTEND;VALUE=DATE:20231111
+DTSTAMP:20231016T071151Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/canada/remembrance-day.php to know more about Remembrance Day (Many regions). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Canada
+STATUS:CONFIRMED
+SUMMARY:Remembrance Day (Many regions)
+TRANSP:TRANSPARENT
+UID:652ce237ae15e1697440311@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230522
+DTEND;VALUE=DATE:20230522
+DTSTAMP:20231016T071151Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/canada/victoria-day.php to know more about Victoria Day (Many regions). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Canada
+STATUS:CONFIRMED
+SUMMARY:Victoria Day (Many regions)
+TRANSP:TRANSPARENT
+UID:652ce237add6f1697440311@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240202
+DTEND;VALUE=DATE:20240202
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/candlemas.php to know more about Candlemas. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Candlemas
+TRANSP:TRANSPARENT
+UID:652cd4884e8d11697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230807
+DTEND;VALUE=DATE:20230807
+DTSTAMP:20231016T071151Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/canada/provincial-day.php to know more about Civic Holiday (Many regions). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Canada
+STATUS:CONFIRMED
+SUMMARY:Civic Holiday (Many regions)
+TRANSP:TRANSPARENT
+UID:652ce237adeb61697440311@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230102
+DTEND;VALUE=DATE:20230102
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day Holiday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:New Year's Day Holiday
+TRANSP:TRANSPARENT
+UID:6527dcc1a4ada1697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240805
+DTEND;VALUE=DATE:20240805
+DTSTAMP:20231016T071151Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/canada/provincial-day.php to know more about Civic Holiday (Many regions). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Canada
+STATUS:CONFIRMED
+SUMMARY:Civic Holiday (Many regions)
+TRANSP:TRANSPARENT
+UID:652ce237ae8211697440311@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20241031
+DTEND;VALUE=DATE:20241031
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/halloween.php to know more about All Hallows Eve. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:All Hallows Eve
+TRANSP:TRANSPARENT
+UID:652cd4884f9a71697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240212
+DTEND;VALUE=DATE:20240212
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/national-foundation-day.php to know more about Foundation Day Observed. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:Foundation Day Observed
+TRANSP:TRANSPARENT
+UID:65291892583e31697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240527
+DTEND;VALUE=DATE:20240527
+DTSTAMP:20231015T092026Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/uk/may-spring-bank-holiday.php to know more about Spring Bank Holiday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+SUMMARY:Spring Bank Holiday
+TRANSP:TRANSPARENT
+UID:652baeda9ae1d1697361626@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230211
+DTEND;VALUE=DATE:20230211
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/national-foundation-day.php to know more about National Foundation Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:National Foundation Day
+TRANSP:TRANSPARENT
+UID:6529189257ae61697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240520
+DTEND;VALUE=DATE:20240520
+DTSTAMP:20231016T071151Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/canada/victoria-day.php to know more about Victoria Day (Many regions). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Canada
+STATUS:CONFIRMED
+SUMMARY:Victoria Day (Many regions)
+TRANSP:TRANSPARENT
+UID:652ce237ae6e51697440311@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20231101
+DTEND;VALUE=DATE:20231101
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/philippines/all-saints-day.php to know more about All Saints' Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:All Saints' Day
+TRANSP:TRANSPARENT
+UID:652cd4884dd971697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20231224
+DTEND;VALUE=DATE:20231224
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas Eve. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Christmas Eve
+TRANSP:TRANSPARENT
+UID:652cd4884e3e21697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240929
+DTEND;VALUE=DATE:20240929
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/michael-and-all-angels.php to know more about Michael and All Angels. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Michael and All Angels
+TRANSP:TRANSPARENT
+UID:652cd4884f8da1697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20241130
+DTEND;VALUE=DATE:20241130
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/st-andrews-day.php to know more about St. Andrew's Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:St. Andrew's Day
+TRANSP:TRANSPARENT
+UID:652cd4884fdac1697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240715
+DTEND;VALUE=DATE:20240715
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/saint-vladimir.php to know more about Saint Vladimir. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Saint Vladimir
+TRANSP:TRANSPARENT
+UID:652cd4884f4b01697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240519
+DTEND;VALUE=DATE:20240519
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/pentecost.php to know more about Pentecost. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Pentecost
+TRANSP:TRANSPARENT
+UID:652cd4884f1a31697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20231009
+DTEND;VALUE=DATE:20231009
+DTSTAMP:20231016T071151Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/canada/thanksgiving-day.php to know more about Thanksgiving Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Canada
+STATUS:CONFIRMED
+SUMMARY:Thanksgiving Day
+TRANSP:TRANSPARENT
+UID:652ce237ae0521697440311@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20241225
+DTEND;VALUE=DATE:20241225
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+UID:6529189258c2b1697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240318
+DTEND;VALUE=DATE:20240318
+DTSTAMP:20231015T092026Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/st-patricks-day.php to know more about St. Patrick's Day Holiday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+SUMMARY:St. Patrick's Day Holiday
+TRANSP:TRANSPARENT
+UID:652baeda9a6f21697361626@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240610
+DTEND;VALUE=DATE:20240610
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/australia/kings-birthday.php to know more about King's Birthday (Most region). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:King's Birthday (Most region)
+TRANSP:TRANSPARENT
+UID:6527dcc1a6fa91697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240813
+DTEND;VALUE=DATE:20240813
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/festival-of-souls.php to know more about Festival of Souls (Obon). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:Festival of Souls (Obon)
+TRANSP:TRANSPARENT
+UID:65291892588641697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230807
+DTEND;VALUE=DATE:20230807
+DTSTAMP:20231015T092026Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/uk/summer-bank-holiday.php to know more about Summer Bank Holiday (SCT). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+SUMMARY:Summer Bank Holiday (SCT)
+TRANSP:TRANSPARENT
+UID:652baeda99be71697361626@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20231102
+DTEND;VALUE=DATE:20231102
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/all-souls-day.php to know more about All Souls' Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:All Souls' Day
+TRANSP:TRANSPARENT
+UID:652cd4884de681697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230317
+DTEND;VALUE=DATE:20230317
+DTSTAMP:20231016T071151Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/st-patricks-day.php to know more about St. Patrick's Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Canada
+STATUS:CONFIRMED
+SUMMARY:St. Patrick's Day
+TRANSP:TRANSPARENT
+UID:652ce237adb761697440311@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230409
+DTEND;VALUE=DATE:20230409
+DTSTAMP:20231015T092026Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/easter.php to know more about Easter Sunday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+SUMMARY:Easter Sunday
+TRANSP:TRANSPARENT
+UID:652baeda995cf1697361626@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230402
+DTEND;VALUE=DATE:20230402
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/palm-sunday.php to know more about Palm Sunday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Palm Sunday
+TRANSP:TRANSPARENT
+UID:652cd4884cf851697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230214
+DTEND;VALUE=DATE:20230214
+DTSTAMP:20231016T071151Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/valentines-day.php to know more about Valentine's Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Canada
+STATUS:CONFIRMED
+SUMMARY:Valentine's Day
+TRANSP:TRANSPARENT
+UID:652ce237adaf21697440311@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240423
+DTEND;VALUE=DATE:20240423
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/st-georges-day.php to know more about St. George's Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:St. George's Day
+TRANSP:TRANSPARENT
+UID:652cd4884f0101697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240916
+DTEND;VALUE=DATE:20240916
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/respect-for-the-aged-day.php to know more about Respect for the Aged Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:Respect for the Aged Day
+TRANSP:TRANSPARENT
+UID:65291892588f41697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20231225
+DTEND;VALUE=DATE:20231225
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+UID:6527dcc1a5cf91697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230528
+DTEND;VALUE=DATE:20230528
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/pentecost.php to know more about Pentecost. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Pentecost
+TRANSP:TRANSPARENT
+UID:652cd4884d4bf1697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230407
+DTEND;VALUE=DATE:20230407
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/good-friday.php to know more about Good Friday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+UID:6527dcc1a51051697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240101
+DTEND;VALUE=DATE:20240101
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+UID:65291892582611697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230126
+DTEND;VALUE=DATE:20230126
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/australia/australia-day.php to know more about Australia Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:Australia Day
+TRANSP:TRANSPARENT
+UID:6527dcc1a4be01697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230407
+DTEND;VALUE=DATE:20230407
+DTSTAMP:20231015T092026Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/good-friday.php to know more about Good Friday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+UID:652baeda994d91697361626@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240331
+DTEND;VALUE=DATE:20240331
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/easter.php to know more about Easter Sunday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:Easter Sunday
+TRANSP:TRANSPARENT
+UID:6527dcc1a693f1697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240311
+DTEND;VALUE=DATE:20240311
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/australia/labour-day.php to know more about Labour Day (VIC). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:Labour Day (VIC)
+TRANSP:TRANSPARENT
+UID:6527dcc1a66c71697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240401
+DTEND;VALUE=DATE:20240401
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/easter-monday.php to know more about Easter Monday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Easter Monday
+TRANSP:TRANSPARENT
+UID:652cd4884ef551697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230214
+DTEND;VALUE=DATE:20230214
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/valentines-day.php to know more about St. Valentine's Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:St. Valentine's Day
+TRANSP:TRANSPARENT
+UID:652cd4884cbe61697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240214
+DTEND;VALUE=DATE:20240214
+DTSTAMP:20231016T071151Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/valentines-day.php to know more about Valentine's Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Canada
+STATUS:CONFIRMED
+SUMMARY:Valentine's Day
+TRANSP:TRANSPARENT
+UID:652ce237ae3a61697440311@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20241111
+DTEND;VALUE=DATE:20241111
+DTSTAMP:20231016T071151Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/canada/remembrance-day.php to know more about Remembrance Day (Many regions). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Canada
+STATUS:CONFIRMED
+SUMMARY:Remembrance Day (Many regions)
+TRANSP:TRANSPARENT
+UID:652ce237aeb4a1697440311@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240331
+DTEND;VALUE=DATE:20240331
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/easter.php to know more about Easter. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Easter
+TRANSP:TRANSPARENT
+UID:652cd4884ee9e1697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20241231
+DTEND;VALUE=DATE:20241231
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Eve. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:New Year's Eve
+TRANSP:TRANSPARENT
+UID:6527dcc1a76101697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240801
+DTEND;VALUE=DATE:20240801
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/lammas.php to know more about Lammas. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Lammas
+TRANSP:TRANSPARENT
+UID:652cd4884f64c1697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230101
+DTEND;VALUE=DATE:20230101
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+UID:6527dcc1a49b31697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240505
+DTEND;VALUE=DATE:20240505
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/childrens-day.php to know more about Children's Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:Children's Day
+TRANSP:TRANSPARENT
+UID:65291892586e51697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240429
+DTEND;VALUE=DATE:20240429
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/showa-day.php to know more about Showa Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:Showa Day
+TRANSP:TRANSPARENT
+UID:65291892585681697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230109
+DTEND;VALUE=DATE:20230109
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/coming-of-age-day.php to know more about Coming of Age Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:Coming of Age Day
+TRANSP:TRANSPARENT
+UID:6529189257a701697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230811
+DTEND;VALUE=DATE:20230811
+DTSTAMP:20231013T101442Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/mountain-day.php to know more about Mountain Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Japan
+STATUS:CONFIRMED
+SUMMARY:Mountain Day
+TRANSP:TRANSPARENT
+UID:6529189257e911697192082@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240107
+DTEND;VALUE=DATE:20240107
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/baptism-of-the-lord.php to know more about The Baptism of Jesus. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:The Baptism of Jesus
+TRANSP:TRANSPARENT
+UID:652cd4884e81b1697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240701
+DTEND;VALUE=DATE:20240701
+DTSTAMP:20231016T071151Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/canada/canada-day.php to know more about Canada Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Canada
+STATUS:CONFIRMED
+SUMMARY:Canada Day
+TRANSP:TRANSPARENT
+UID:652ce237ae7831697440311@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20241206
+DTEND;VALUE=DATE:20241206
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/st-nicholas-day.php to know more about St. Nicholas Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:St. Nicholas Day
+TRANSP:TRANSPARENT
+UID:652cd4884ff091697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240319
+DTEND;VALUE=DATE:20240319
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/st-josephs-day-.php to know more about St. Joseph's Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:St. Joseph's Day
+TRANSP:TRANSPARENT
+UID:652cd4884ebb61697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240317
+DTEND;VALUE=DATE:20240317
+DTSTAMP:20231015T092026Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/st-patricks-day.php to know more about St. Patrick's Day (NIR). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+SUMMARY:St. Patrick's Day (NIR)
+TRANSP:TRANSPARENT
+UID:652baeda9a5dc1697361626@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230410
+DTEND;VALUE=DATE:20230410
+DTSTAMP:20231016T071151Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/easter-monday.php to know more about Easter Monday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Canada
+STATUS:CONFIRMED
+SUMMARY:Easter Monday
+TRANSP:TRANSPARENT
+UID:652ce237adcf61697440311@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20241007
+DTEND;VALUE=DATE:20241007
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/australia/kings-birthday.php to know more about King's Birthday (QLD). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:King's Birthday (QLD)
+TRANSP:TRANSPARENT
+UID:6527dcc1a73571697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240509
+DTEND;VALUE=DATE:20240509
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/romania/ascension-day.php to know more about Ascension of Jesus. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:Ascension of Jesus
+TRANSP:TRANSPARENT
+UID:652cd4884f0e61697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230101
+DTEND;VALUE=DATE:20230101
+DTSTAMP:20231015T092026Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+UID:652baeda990c11697361626@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230423
+DTEND;VALUE=DATE:20230423
+DTSTAMP:20231016T061328Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/st-georges-day.php to know more about St. George's Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+STATUS:CONFIRMED
+SUMMARY:St. George's Day
+TRANSP:TRANSPARENT
+UID:652cd4884d3421697436808@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20231002
+DTEND;VALUE=DATE:20231002
+DTSTAMP:20231012T114713Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/australia/labour-day.php to know more about Labour Day (Most Region). \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:Australia
+STATUS:CONFIRMED
+SUMMARY:Labour Day (Most Region)
+TRANSP:TRANSPARENT
+UID:6527dcc1a5be01697111233@calendarlabs.com
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20230508
+DTEND;VALUE=DATE:20230508
+DTSTAMP:20231015T092026Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays to know more about Bank holiday for the coronation of King Charles III. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+SUMMARY:Bank holiday for the coronation of King Charles III
+TRANSP:TRANSPARENT
+UID:652baeda998d61697361626@calendarlabs.com
+END:VEVENT
+END:VCALENDAR
