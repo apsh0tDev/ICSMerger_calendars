@@ -1,0 +1,4 @@
+https://www.airbnb.com/calendar/ical/1140823280344570186.ics?s=678c74f4c6eb871d961be4702f48aa5b
+http://www.vrbo.com/icalendar/39a18724ba084ad1964a472fcc1b5b42.ics
+https://rentals.tripadvisor.com/calendar/ical/13442442.ics?s=v14cef933b4cb4cd51fc8f78c0622ef557
+https://ical.booking.com/v1/export?t=59d00cd3-db4c-46ef-b478-fb7a9446f4e3
